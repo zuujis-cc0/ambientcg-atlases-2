@@ -1,5 +1,8 @@
 {
- "assets": {},
+ "assets": {
+  "Tape005": "9cb6cac4758ee2ef9f36e32371cb8f1126872399",
+  "Tape006": "08d5f74f8571875ae67fd4fc06968823ca142cf8"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
